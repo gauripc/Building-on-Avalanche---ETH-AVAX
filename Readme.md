@@ -73,4 +73,4 @@ To deploy the Degen Token smart contract, deploy it to the Ethereum blockchain u
 
 ## Authors
 
-- Gauri Gupta[(https://github.com/gauripc)https://github.com/gauripc]
+- Gauri Gupta[https://github.com/gauripc]
